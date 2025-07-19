@@ -1,12 +1,7 @@
  
-*.log
-logs/
 
 # Environment variables
 .env
 .env.*
 
- Backend/node_modules/
- Backend/package-lock.json
- Backend/package.json
- 
+ Backend/node_modules
