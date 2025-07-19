@@ -1,4 +1,9 @@
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Environment variables
 .env
-Backend/combined.log
-Backend/error.log
-node_modules/ 
