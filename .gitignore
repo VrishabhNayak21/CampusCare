@@ -1,7 +1,4 @@
- 
- 
 .env
-.env.*
-
- Backend/node_modules/
-  
+Backend/combined.log
+Backend/error.log
+node_modules/ 
